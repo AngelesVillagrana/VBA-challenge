@@ -13,12 +13,12 @@ This is for the homework 2 of the bootcamp
   * Set an initial variable for gratest decrease
   * Set an initial variable for gratest total volume
 
-*Add the Headers for the sumary and for the top numbers.
+* Add the Headers for the sumary and for the top numbers.
 
-*Find the last row for the first column
+* Find the last row for the first column
 
-*Do the loop trough all the ticket and do the calculations to get the summary table
+* Do the loop trough all the ticket and do the calculations to get the summary table
 
-*Do the second loop trough the summary table to find the greatest increase and decrease and the gratest volume.
+* Do the second loop trough the summary table to find the greatest increase and decrease and the gratest volume.
 
-*Do the last loop to find which ticker is for the values from the previous step.
+* Do the last loop to find which ticker is for the values from the previous step.
